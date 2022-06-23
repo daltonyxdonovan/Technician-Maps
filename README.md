@@ -5,7 +5,7 @@
 ===============================================================
 
 # Usage
-to get started, you'll have to install the vcredist file included with the zip (in the release tab of this page!) to have the packages required to run c++ apps.
+to get started, you'll have to install the vcredist file included with the zip (in the release section on the right side of this page!) to have the packages required to run c++ apps.
 you'll also require the latest version of python to be installed and added to path. the installer can be found [here](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) Adding it to path is as simple as **checking a box in the python installer**
 
 ## MAKE SURE YOU ADD PYTHON TO PATH WITH THE CHECKBOX IN THE INSTALLER
