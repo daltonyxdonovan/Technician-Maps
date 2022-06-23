@@ -2,7 +2,7 @@
 ## a GUI to display the names, phone numbers, and location of your technicians, with a map to boot!
 ## can be ran from anywhere, even a flash drive! completely portable! (for once)
 
-============================================================================================
+===============================================================
 
 # Usage
 to get started, you'll have to install the vcredist file included with the zip (in the release tab of this page!) to have the packages required to run c++ apps.
